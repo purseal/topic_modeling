@@ -1,0 +1,9 @@
+start
+index = 0
+<Selector xpath='//tbody/tr' data=u'<tr class="item" ng-repeat="item in bank'>
+index = 1
+<Selector xpath='//tbody/tr' data=u'<tr class="banks-list-table__middle">\n\t\t'>
+index = 2
+<Selector xpath='//tbody/tr' data=u'<tr class="item" ng-repeat="item in bank'>
+index = 3
+<Selector xpath='//tbody/tr' data=u'<tr class="standard-table__footer">\n\t\t\t\t'>
