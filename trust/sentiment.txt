@@ -1,4 +1,4 @@
-name: d405bf2f-cab4-4e5b-b872-7cb2805f95ea num_items: 0
+name: 7990eaf7-a96a-49b7-a8c7-7d692d14a47b num_items: 0
 token, class_id, token_value, token_tf, token_df
 упрашивать, @default_class, 0.0, 1.0, 1.0
 школьный, @default_class, 0.0, 1.0, 1.0

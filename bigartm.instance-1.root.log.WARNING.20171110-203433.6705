@@ -1,0 +1,57 @@
+Log file created at: 2017/11/10 20:34:33
+Running on machine: instance-1
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W1110 20:34:33.615959  6757 helpers.cc:221] File already exists: trust/batches/replies/aaaaaa.batch
+W1110 20:34:33.625073  6764 helpers.cc:221] File already exists: trust/batches/replies/aaaaah.batch
+W1110 20:34:33.640640  6759 helpers.cc:221] File already exists: trust/batches/replies/aaaaac.batch
+W1110 20:34:33.655853  6763 helpers.cc:221] File already exists: trust/batches/replies/aaaaaf.batch
+W1110 20:34:33.665369  6761 helpers.cc:221] File already exists: trust/batches/replies/aaaaad.batch
+W1110 20:34:33.673169  6758 helpers.cc:221] File already exists: trust/batches/replies/aaaaab.batch
+W1110 20:34:33.681738  6760 helpers.cc:221] File already exists: trust/batches/replies/aaaaae.batch
+W1110 20:34:33.705874  6762 helpers.cc:221] File already exists: trust/batches/replies/aaaaag.batch
+W1110 20:36:01.144136  6705 check_messages.h:1075] Inconsistent fields size in ThetaMatrix: 7709 vs 0 vs 7709 vs 0;
+W1110 20:36:53.554469  6705 check_messages.h:1075] Inconsistent fields size in ThetaMatrix: 7709 vs 0 vs 7709 vs 0;
+W1110 20:36:55.097172  6705 check_messages.h:1075] Inconsistent fields size in ThetaMatrix: 7709 vs 0 vs 7709 vs 0;
+W1110 20:37:14.026398  6820 helpers.cc:221] File already exists: trust/batches_wntm/aaaaaa.batch
+W1110 20:37:14.100677  6821 helpers.cc:221] File already exists: trust/batches_wntm/aaaaae.batch
+W1110 20:37:14.132550  6822 helpers.cc:221] File already exists: trust/batches_wntm/aaaaaf.batch
+W1110 20:37:14.179878  6823 helpers.cc:221] File already exists: trust/batches_wntm/aaaaad.batch
+W1110 20:37:14.199357  6819 helpers.cc:221] File already exists: trust/batches_wntm/aaaaab.batch
+W1110 20:37:14.223927  6818 helpers.cc:221] File already exists: trust/batches_wntm/aaaaac.batch
+W1110 20:37:14.246526  6824 helpers.cc:221] File already exists: trust/batches_wntm/aaaaag.batch
+W1110 20:37:14.302338  6825 helpers.cc:221] File already exists: trust/batches_wntm/aaaaah.batch
+W1110 20:37:14.413528  6823 helpers.cc:221] File already exists: trust/batches_wntm/aaaaal.batch
+W1110 20:37:14.534873  6820 helpers.cc:221] File already exists: trust/batches_wntm/aaaaai.batch
+W1110 20:37:14.631436  6822 helpers.cc:221] File already exists: trust/batches_wntm/aaaaak.batch
+W1110 20:37:14.641610  6821 helpers.cc:221] File already exists: trust/batches_wntm/aaaaaj.batch
+W1110 20:37:15.468291  6830 perplexity.cc:149] Error in perplexity dictionary for token обнуление, class @default_class (and potentially for other tokens). Verify that the token exists in the dictionary and it's value > 0. Document unigram model will be used for this token (and for all other tokens under the same conditions).
+W1110 20:38:27.149171  6841 helpers.cc:221] File already exists: trust/batches/sentences_0/aaaaab.batch
+W1110 20:38:27.406086  6840 helpers.cc:221] File already exists: trust/batches/sentences_0/aaaaaa.batch
+W1110 20:38:28.012955  6826 check_messages.h:1075] Inconsistent fields size in ThetaMatrix: 10955 vs 0 vs 10955 vs 0;
+W1110 20:38:32.911340  6848 helpers.cc:221] File already exists: trust/batches/sentences_1/aaaaab.batch
+W1110 20:38:33.184484  6849 helpers.cc:221] File already exists: trust/batches/sentences_1/aaaaaa.batch
+W1110 20:38:33.787978  6826 check_messages.h:1075] Inconsistent fields size in ThetaMatrix: 10955 vs 0 vs 10955 vs 0;
+W1110 20:38:38.823155  6856 helpers.cc:221] File already exists: trust/batches/sentences_2/aaaaab.batch
+W1110 20:38:39.092660  6857 helpers.cc:221] File already exists: trust/batches/sentences_2/aaaaaa.batch
+W1110 20:38:39.695310  6826 check_messages.h:1075] Inconsistent fields size in ThetaMatrix: 10955 vs 0 vs 10955 vs 0;
+W1110 20:38:44.334134  6865 helpers.cc:221] File already exists: trust/batches/sentences_3/aaaaab.batch
+W1110 20:38:44.578876  6863 helpers.cc:221] File already exists: trust/batches/sentences_3/aaaaaa.batch
+W1110 20:38:45.189038  6826 check_messages.h:1075] Inconsistent fields size in ThetaMatrix: 10955 vs 0 vs 10955 vs 0;
+W1110 20:38:49.797307  6872 helpers.cc:221] File already exists: trust/batches/sentences_4/aaaaab.batch
+W1110 20:38:50.053401  6877 helpers.cc:221] File already exists: trust/batches/sentences_4/aaaaaa.batch
+W1110 20:38:50.659458  6826 check_messages.h:1075] Inconsistent fields size in ThetaMatrix: 10955 vs 0 vs 10955 vs 0;
+W1110 20:38:55.554968  6882 helpers.cc:221] File already exists: trust/batches/sentences_5/aaaaab.batch
+W1110 20:38:55.820197  6879 helpers.cc:221] File already exists: trust/batches/sentences_5/aaaaaa.batch
+W1110 20:38:56.432691  6826 check_messages.h:1075] Inconsistent fields size in ThetaMatrix: 10955 vs 0 vs 10955 vs 0;
+W1110 20:39:01.488843  6890 helpers.cc:221] File already exists: trust/batches/sentences_6/aaaaab.batch
+W1110 20:39:01.752106  6889 helpers.cc:221] File already exists: trust/batches/sentences_6/aaaaaa.batch
+W1110 20:39:02.347941  6826 check_messages.h:1075] Inconsistent fields size in ThetaMatrix: 10955 vs 0 vs 10955 vs 0;
+W1110 20:39:06.959904  6897 helpers.cc:221] File already exists: trust/batches/sentences_7/aaaaab.batch
+W1110 20:39:07.211813  6895 helpers.cc:221] File already exists: trust/batches/sentences_7/aaaaaa.batch
+W1110 20:39:07.809376  6826 check_messages.h:1075] Inconsistent fields size in ThetaMatrix: 10955 vs 0 vs 10955 vs 0;
+W1110 20:39:12.288704  6904 helpers.cc:221] File already exists: trust/batches/sentences_8/aaaaab.batch
+W1110 20:39:12.538516  6906 helpers.cc:221] File already exists: trust/batches/sentences_8/aaaaaa.batch
+W1110 20:39:13.152068  6826 check_messages.h:1075] Inconsistent fields size in ThetaMatrix: 10955 vs 0 vs 10955 vs 0;
+W1110 20:39:17.721004  6914 helpers.cc:221] File already exists: trust/batches/sentences_9/aaaaab.batch
+W1110 20:39:17.992012  6911 helpers.cc:221] File already exists: trust/batches/sentences_9/aaaaaa.batch
+W1110 20:39:18.610596  6826 check_messages.h:1075] Inconsistent fields size in ThetaMatrix: 10955 vs 0 vs 10955 vs 0;
